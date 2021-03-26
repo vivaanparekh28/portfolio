@@ -1,0 +1,43 @@
+.header{
+   color:#FAFEDE;
+   /* font-style: "oblique"; */
+   background-color: orange;
+  font-family: cursive;
+  background-image: url("backgroundimg.jpg")
+
+  /*border:blueviolet*/
+   }
+   .games{
+      display:flex;
+      flex-wrap: wrap;
+      background-color:black;
+      background-image: url("https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif");
+      justify-content: space-evenly;
+
+   }
+   .games img {
+      
+      width: 200px;
+      height: 200px;
+     
+border-radius: 50px;
+
+
+      
+
+   }
+   .item {
+      
+    padding: 10px;
+    margin:30px
+   }
+   .games p {
+      color:white
+   }
+   a:link{
+      color:goldenrod
+      
+   }
+   a:visited{
+      color:goldenrod
+   }
